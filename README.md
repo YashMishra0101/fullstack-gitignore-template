@@ -47,12 +47,12 @@ You can simply copy this `.gitignore` file into your project or use it as a base
 
 ## 💡 Why You’ll Love This Template
 
-✨ **All-in-One Full-Stack Coverage** — handles both client & server in a single config
-🧠 **Tailwind CSS Ready** — includes ignores for Tailwind cache, PostCSS, and CSS maps
-⚙️ **Modern Stack Files Covered** — TypeScript, Mongoose, React, Express, and pnpm-specific files
-🔒 **Security-Focused** — protects sensitive `.env` and `.local` configuration files
-🧹 **Clean & Lightweight** — filters out logs, caches, build outputs, and temporary files
-💼 **Perfect for MERN + TypeScript Projects** — suitable for both personal and production-level projects
+* **All-in-One Full-Stack Coverage** — handles both client & server in a single config
+* **Tailwind CSS Ready** — includes ignores for Tailwind cache, PostCSS, and CSS maps
+* **Modern Stack Files Covered** — TypeScript, Mongoose, React, Express, and pnpm-specific files
+* **Security-Focused** — protects sensitive `.env` and `.local` configuration files
+* **Clean & Lightweight** — filters out logs, caches, build outputs, and temporary files
+* **Perfect for MERN + TypeScript Projects** — suitable for both personal and production-level projects
 
 ---
 
