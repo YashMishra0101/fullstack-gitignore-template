@@ -15,10 +15,10 @@ It covers both **frontend** (**React + TypeScript + Tailwind CSS**) and **backen
 
 This repository provides a ready-to-use `.gitignore` file that:
 
-* Prevents sensitive files such as `.env` from being pushed to GitHub
-* Covers **frontend and backend structures** in a single setup
-* Includes ignores for **pnpm-specific files**
-* Ideal for **MERN developers**, **freelancers**, and **open-source projects**
+- Prevents sensitive files such as `.env` from being pushed to GitHub
+- Covers **frontend and backend structures** in a single setup
+- Includes ignores for **pnpm-specific files**
+- Ideal for **MERN developers**, **freelancers**, and **open-source projects**
 
 You can simply copy this `.gitignore` file into your project or use it as a base template for your next full-stack build.
 
@@ -48,12 +48,12 @@ You can simply copy this `.gitignore` file into your project or use it as a base
 
 ## 💡 Why You’ll Love This Template
 
-* **All-in-One Full-Stack Coverage** — handles both client & server in a single config
-* **Tailwind CSS Ready** — includes ignores for Tailwind cache, PostCSS, and CSS maps
-* **Modern Stack Files Covered** — TypeScript, Mongoose, React, Express, and pnpm-specific files
-* **Security-Focused** — protects sensitive `.env` and `.local` configuration files
-* **Clean & Lightweight** — filters out logs, caches, build outputs, and temporary files
-* **Perfect for MERN + TypeScript Projects** — suitable for both personal and production-level projects
+- **All-in-One Full-Stack Coverage** — handles both client & server in a single config
+- **Tailwind CSS Ready** — includes ignores for Tailwind cache, PostCSS, and CSS maps
+- **Modern Stack Files Covered** — TypeScript, Mongoose, React, Express, and pnpm-specific files
+- **Security-Focused** — protects sensitive `.env` and `.local` configuration files
+- **Clean & Lightweight** — filters out logs, caches, build outputs, and temporary files
+- **Perfect for MERN + TypeScript Projects** — suitable for both personal and production-level projects
 
 ---
 
@@ -61,9 +61,9 @@ You can simply copy this `.gitignore` file into your project or use it as a base
 
 Have suggestions or improvements? You’re welcome to:
 
-* Open a **Pull Request**
-* Create an **Issue**
-* Share ideas for additional tech stack ignores
+- Open a **Pull Request**
+- Create an **Issue**
+- Share ideas for additional tech stack ignores
 
 Every contribution makes this template stronger for everyone 💪
 
@@ -84,4 +84,3 @@ If this template helped you, please **star ⭐ the repository** — it motivates
 ## 🏷️ Tags
 
 react, nodejs, express, mongodb, typescript, pnpm, mongoose, tailwindcss, gitignore, mern, fullstack, template, boilerplate, webdev, developer-tools
-

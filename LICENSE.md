@@ -26,10 +26,10 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 You are free to:
 
-* ✅ Use the Template in any project
-* ✅ Modify it to suit your needs
-* ✅ Share it with others
-* ✅ Use it commercially or personally
+- ✅ Use the Template in any project
+- ✅ Modify it to suit your needs
+- ✅ Share it with others
+- ✅ Use it commercially or personally
 
 You are **not required** to credit the author, but doing so is appreciated. Enjoy the Template and happy coding.
 
@@ -38,6 +38,6 @@ You are **not required** to credit the author, but doing so is appreciated. Enjo
 ## Author
 
 **Yash Mishra**
-**Email:** [yashrkm0011@gmail.com](mailto:yashrkm0011@gmail.com)
-**LinkedIn:** [https://www.linkedin.com/in/yash-mishra-356280223/](https://www.linkedin.com/in/yash-mishra-356280223/)
-**Twitter (X):** [https://x.com/YashRKMishra1](https://x.com/YashRKMishra1)
+* **Email:** [yashrkm0011@gmail.com](mailto:yashrkm0011@gmail.com)
+* **LinkedIn:** [https://www.linkedin.com/in/yash-mishra-356280223/](https://www.linkedin.com/in/yash-mishra-356280223/)
+* **Twitter (X):** [https://x.com/YashRKMishra1](https://x.com/YashRKMishra1)
