@@ -5,7 +5,9 @@
 A professionally curated `.gitignore` template for **modern full-stack JavaScript projects**.
 It covers both **frontend** (**React + TypeScript + Tailwind CSS**) and **backend** (**Node.js + Express + MongoDB + Mongoose**) setups.
 
-> **Note:** This template includes ignores for **pnpm-related files** (like cache, lock files, etc.) to prevent them from being pushed to GitHub. It does **not** include files for other package managers like npm or Yarn.
+> **Purpose:** This .gitignore file helps you exclude unnecessary, sensitive, or system-generated files from being pushed to GitHub, keeping your repository clean and secure.
+
+> **Note:** This template includes ignores for **pnpm-package manager-related files** (like cache, lock files, etc.) to prevent them from being pushed to GitHub. It does **not** include files for other package managers like npm or Yarn.
 
 ---
 
@@ -30,7 +32,6 @@ You can simply copy this `.gitignore` file into your project or use it as a base
 | Backend         | Node.js + Express                             |
 | Database        | MongoDB + Mongoose                            |
 | Package Manager | pnpm (specific files ignored in `.gitignore`) |
-| Language        | TypeScript                                    |
 
 ---
 
