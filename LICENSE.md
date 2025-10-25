@@ -12,7 +12,10 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 2. **No Warranty:**  
    This Template is provided "as-is", without any warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, or non-infringement.
 
-3. **Liability:**  
+3. **No Responsibility for Misuse:**  
+   The author is **not responsible** for any misuse, damages, legal issues, or consequences arising from the use of this Template by any individual or organization. By using this Template, you agree that all responsibility lies with you.
+
+4. **Liability:**  
    In no event shall the author be held liable for any claim, damages, or other liability arising from the use of this Template.
 
 ## Summary

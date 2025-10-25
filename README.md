@@ -1,10 +1,8 @@
-```md
 # 🧠 Full-Stack .gitignore Template (React + Node + Express + MongoDB + TypeScript + pnpm + Mongoose + Tailwind CSS)
 
 A professionally curated `.gitignore` template designed for **modern full-stack JavaScript projects**.  
 It covers both frontend (**React + TypeScript + Tailwind CSS**) and backend (**Node.js + Express + MongoDB + Mongoose**) — built for developers who use **pnpm** and **TypeScript**.
 
----
 
 ## 💻 Overview
 
@@ -16,7 +14,6 @@ This repository provides a ready-to-use `.gitignore` file that:
 
 You can simply copy this `.gitignore` file into your own project or use it as a base template for your next full-stack build.
 
----
 
 ## 🧩 Supported Stack
 
@@ -28,7 +25,6 @@ You can simply copy this `.gitignore` file into your own project or use it as a 
 | Package Manager | pnpm |
 | Language | TypeScript |
 
----
 
 ## 📁 Project Contents
 
@@ -41,8 +37,6 @@ You can simply copy this `.gitignore` file into your own project or use it as a 
 
 ```
 
----
-
 ## 💡 Why You’ll Love This Template
 
 ✨ **All-in-one Full-Stack Coverage** — handles both client & server in a single config  
@@ -52,7 +46,6 @@ You can simply copy this `.gitignore` file into your own project or use it as a 
 🧹 **Clean & Lightweight** — filters out logs, caches, build outputs, and temporary files  
 💼 **Perfect for MERN + TypeScript Projects** — whether personal or production-level  
 
----
 
 ## 🤝 Contributing
 
@@ -65,23 +58,16 @@ You’re welcome to:
 
 Every contribution helps make this template stronger for everyone 💪
 
----
 
 ## 👩‍💻 Author
 
 **Yash Mishra**
 
----
-
 ## ⭐ Support
 
 If this template helped you, please **star ⭐ the repository** — it motivates future updates and improvements!
 
----
 
 ## 🏷️ Tags
 
 react, nodejs, express, mongodb, typescript, pnpm, mongoose, tailwindcss, gitignore, mern, fullstack, template, boilerplate, webdev, developer-tools
-```
-
----
