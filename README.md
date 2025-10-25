@@ -1,4 +1,4 @@
-# 🧠 Full-Stack .gitignore Template (React + Node + Express + MongoDB + TypeScript + pnpm + Mongoose + Tailwind CSS)
+## Full-Stack .gitignore Template (React + Node + Express + MongoDB + TypeScript + pnpm + Mongoose + Tailwind CSS)
 
 A professionally curated `.gitignore` template designed for **modern full-stack JavaScript projects**.  
 It covers both frontend (**React + TypeScript + Tailwind CSS**) and backend (**Node.js + Express + MongoDB + Mongoose**) — built for developers who use **pnpm** and **TypeScript**.
