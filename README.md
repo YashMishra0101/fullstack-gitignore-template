@@ -13,7 +13,7 @@ This repository helps developers maintain **clean, secure, and well-formatted co
 
 | Layer           | Technology                                    |
 | --------------- | --------------------------------------------- |
-| Frontend        | React 19 + TypeScript + Tailwind CSS          |
+| Frontend        | React + TypeScript + Tailwind CSS          |
 | Backend         | Node.js + Express                             |
 | Database        | MongoDB + Mongoose                            |
 | Package Manager | pnpm                                           |

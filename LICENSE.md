@@ -1,4 +1,4 @@
-Public License for Full-Stack Ignore Templates
+## Public License for Full-Stack Ignore Templates
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this repository (the "Templates"), to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Templates for any purpose, including commercial, personal, educational, or open-source projects.
 
