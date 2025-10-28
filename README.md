@@ -34,7 +34,7 @@ Each file is structured, documented, and production-ready — helping developers
 | **Database**        | MongoDB + Mongoose                               |
 | **Package Manager** | pnpm (fully optimized for pnpm)                  |
 
-> 💡 These templates are optimized for **pnpm** users.  
+> 🖖👉 These templates are optimized for **pnpm** users.  
 > For npm or Yarn, just adjust lockfile and cache folder names as needed.
 
 ---
@@ -67,17 +67,6 @@ Each file is structured, documented, and production-ready — helping developers
 
 ---
 
-## 🧰 Available Templates
-
-| File Name            | Description                                                                                                  |
-| -------------------- | ------------------------------------------------------------------------------------------------------------ |
-| `.gitignore`         | For **JavaScript-based full-stack projects** (React, Express, MongoDB, etc.) without TypeScript.             |
-| `.gitignore.ts`      | For **TypeScript-based full-stack projects** — includes `.tsbuildinfo`, compiled `.js`, and `.d.ts` ignores. |
-| `.prettierignore`    | For **non-TypeScript projects** — excludes build outputs, caches, and logs from formatting.                  |
-| `.prettierignore.ts` | For **TypeScript-based setups** — adds TypeScript and Vite-specific ignores for Prettier.                    |
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome!
@@ -94,9 +83,9 @@ Together, we can make cleaner, safer repos for everyone 💪.
 ## 👩‍💻 Author
 
 **Yash Mishra**
-📧 [yashrkm0011@gmail.com](mailto:yashrkm0011@gmail.com)
-💼 [LinkedIn](https://www.linkedin.com/in/yash-mishra-356280223/)
-🐦 [Twitter (X)](https://x.com/YashRKMishra1)
+* 📧 [yashrkm0011@gmail.com](mailto:yashrkm0011@gmail.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/yash-mishra-356280223/)
+* 🐦 [Twitter (X)](https://x.com/YashRKMishra1)
 
 ---
 
