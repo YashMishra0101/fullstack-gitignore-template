@@ -47,9 +47,11 @@ Each file is structured, documented, and production-ready — helping developers
 │
 ├── .gitignore                  # Common ignore (Frontend + Backend without TypeScript)
 ├── .prettierignore             # Prettier ignore (Frontend + Backend without TypeScript)
+├── LICENSE.md                  # License file for open-source usage and distribution
 ├── ts.gitignore                # Common ignore (Frontend + Backend with TypeScript)
 ├── ts.prettierignore           # Prettier ignore (Frontend + Backend with TypeScript)
 └── README.md                   # Documentation (this file)
+
 
 ```
 
