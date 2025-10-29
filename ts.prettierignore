@@ -1,27 +1,27 @@
 # =========================================================
-# 🖌 Full-Stack Project .prettierignore 
-# (React + Node + Express + MongoDB + pnpm + JavaScript + Mongoose + Tailwind CSS)
+# 🖌 Full-Stack Project .prettierignore (React + Node + Express + MongoDB + pnpm + TypeScript + Mongoose + Tailwind CSS)
 # =========================================================
 # 📌 Description:
-# This .prettierignore file is designed for a **modern full-stack JavaScript project**.
+# This .prettierignore file is designed for a **modern full-stack TypeScript project**.
 #
 # It covers:
-# - Frontend: React + Tailwind CSS + Vite / Next.js
+# - Frontend: React + TypeScript + Tailwind CSS + Vite / Next.js
 # - Backend: Node.js + Express + MongoDB + Mongoose
 # - Package Manager: pnpm
 #
 # ⚠️ IMPORTANT:
-# This version is specifically for **JavaScript-based projects (without TypeScript)**.
-# Do NOT use it in TypeScript projects.
+# This file is specifically for **TypeScript-based projects**.
+# Do NOT use in pure Javascript Project 
+# (Because — it ignores `.d.ts` and `.ts`-related build files)
 #
 # 🧾 Purpose:
 # - Prevent Prettier from formatting build outputs, caches, environment files, and generated assets.
-# - Ensure only real source code (JS, JSX, CSS, etc.) is formatted.
-# - Maintain a clean, consistent, and secure codebase.
+# - Ensure only actual source code (TS, JSX/TSX, CSS, etc.) is formatted.
+# - Maintain consistency, prevent accidental formatting of generated or sensitive files.
 #
 # 💡 Usage:
 # - Place this file at the root of your project.
-# - Prettier will automatically ignore all files and folders listed below.
+# - Prettier will automatically ignore everything listed below.
 #
 # Author: Yash Mishra
 # GitHub: https://github.com/YashMishra0101/fullstack-ignore-templates
@@ -76,6 +76,7 @@ lib-cov/
 
 *.js.map
 *.css.map
+*.d.ts
 *.min.css
 *.tgz
 *.zip
@@ -93,6 +94,7 @@ lib-cov/
 
 tailwind.config.js.timestamp*
 tailwind.config.cjs.timestamp*
+tailwind.config.ts.timestamp*
 
 .postcssrc.json
 .postcssrc.js
@@ -106,7 +108,7 @@ tailwind.config.cjs.timestamp*
 .next/
 .nuxt/
 .svelte-kit/
-vite.config.js.timestamp*
+vite.config.ts.timestamp*
 
 
 # ---------------------------------------------------------
@@ -164,5 +166,5 @@ service-worker.js
 
 
 # =========================================================
-# ✅ End of Prettier Ignore (JavaScript)
+# ✅ End of Prettier Ignore (TypeScript)
 # =========================================================
